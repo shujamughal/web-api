@@ -1,0 +1,6 @@
+@Lecture3_webpi_jwt_authentication_HostAddress = http://localhost:5225
+
+GET {{Lecture3_webpi_jwt_authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
