@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\program.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:program.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\program.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|solutionrelative:program.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1A2270E-C03A-41EE-9E45-19D2F3531E1C}|Odata_Lecture1.csproj|c:\\shuja\\code examples\\web-api\\odata\\odata_lecture1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T08:05:25.674Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T08:04:59.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T08:04:59.224Z"
             },
             {
               "$type": "Document",
@@ -88,31 +87,30 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:39:43.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T07:39:43.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:38:59.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.Methods.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Program.Methods.cs",
               "RelativeDocumentMoniker": "Program.Methods.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Program.Methods.cs",
               "RelativeToolTip": "Program.Methods.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:34:06.164Z",
               "EditorCaption": ""
@@ -131,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:52:13.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\OData\\Odata_Lecture1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -152,8 +150,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:56:55.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:56:55.445Z"
             },
             {
               "$type": "Document",
@@ -165,8 +162,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:55:45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:55:45Z"
             }
           ]
         },

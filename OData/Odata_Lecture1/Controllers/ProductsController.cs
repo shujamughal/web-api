@@ -6,7 +6,7 @@ using Odata_Lecture1.Models;
 namespace Odata_Lecture1.Controllers
 {
 
-    public class ProductController : ODataController
+    public class ProductsController : ODataController
     {
         private static readonly List<Product> Products = new List<Product>
     {

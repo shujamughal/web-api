@@ -1,0 +1,724 @@
+[
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetServiceDocument",
+    "RelativePath": "catagories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.ODataServiceDocument",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "catagories/"
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetMetadata",
+    "RelativePath": "catagories/$metadata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.Edm.IEdmModel",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "catagories/$metadata"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "catagories/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "catagories/Categories"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "catagories/Categories({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "catagories/Categories({key})"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "catagories/Categories/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "catagories/Categories/{key}"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "catagories/Categories/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "catagories/Categories/$count"
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetServiceDocument",
+    "RelativePath": "customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.ODataServiceDocument",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "customers/"
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetMetadata",
+    "RelativePath": "customers/$metadata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.Edm.IEdmModel",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "customers/$metadata"
+  },
+  {
+    "ContainingType": "Odata_Lecture1.Controllers.CustomersController",
+    "Method": "Get",
+    "RelativePath": "customers/Customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "customers/Customers"
+  },
+  {
+    "ContainingType": "Odata_Lecture1.Controllers.CustomersController",
+    "Method": "Get",
+    "RelativePath": "customers/Customers/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "customers/Customers/$count"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "GetExpensiveProducts",
+    "RelativePath": "expensiveProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetServiceDocument",
+    "RelativePath": "products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.ODataServiceDocument",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "products/"
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetMetadata",
+    "RelativePath": "products/$metadata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.Edm.IEdmModel",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "products/$metadata"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "products/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "products/Categories"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "products/Categories({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Categories({key})"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "products/Categories/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Categories/{key}"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "products/Categories/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "products/Categories/$count"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "products/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Post",
+    "RelativePath": "products/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "Lecture_2_Odata.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "products/Products({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products({key})"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Put",
+    "RelativePath": "products/Products({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedProduct",
+        "Type": "Lecture_2_Odata.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products({key})"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Delete",
+    "RelativePath": "products/Products({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products({key})"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "products/Products/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products/{key}"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Put",
+    "RelativePath": "products/Products/{key}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedProduct",
+        "Type": "Lecture_2_Odata.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products/{key}"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Delete",
+    "RelativePath": "products/Products/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products/{key}"
+  },
+  {
+    "ContainingType": "Lecture_2_Odata.Controllers.ProductsController",
+    "Method": "Get",
+    "RelativePath": "products/Products/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "products/Products/$count"
+  },
+  {
+    "ContainingType": "Odata_Lecture1.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Odata_Lecture1.WeatherForecast, Lecture_2_Odata, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=false",
+          "application/json;odata.metadata=minimal;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=full;IEEE754Compatible=false",
+          "application/json;odata.metadata=full;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;odata.metadata=none;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=false",
+          "application/json;odata.metadata=none;IEEE754Compatible=true",
+          "application/json;odata.streaming=true;IEEE754Compatible=false",
+          "application/json;odata.streaming=true;IEEE754Compatible=true",
+          "application/json;odata.streaming=false;IEEE754Compatible=false",
+          "application/json;odata.streaming=false;IEEE754Compatible=true",
+          "application/json;IEEE754Compatible=false",
+          "application/json;IEEE754Compatible=true",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

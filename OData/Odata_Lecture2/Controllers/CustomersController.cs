@@ -7,14 +7,10 @@ using Odata_Lecture1.Models;
 namespace Odata_Lecture1.Controllers
 {
 
-    public class CustomerController : ODataController
+    public class CustomersController : ODataController
     {
-        //protected readonly NorthwindContext db;
-
-        public CustomerController()
-        {
-            //this.db = db;
-        }
+        
+      
 
         [EnableQuery]
         public IActionResult Get()

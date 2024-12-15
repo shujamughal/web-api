@@ -15,14 +15,14 @@ partial class Program
     static IEdmModel GetEdmModelForProducts()
     {
         ODataConventionModelBuilder builder = new();
-        builder.EntitySet<Product>("Product");
+        builder.EntitySet<Product>("Products");
         return builder.GetEdmModel();
     }
 
     static IEdmModel GetEdmModelForCustomer()
     {
         ODataConventionModelBuilder builder = new();
-        builder.EntitySet<Customer>("Customer");
+        builder.EntitySet<Customer>("Customers");
         return builder.GetEdmModel();
     }
 

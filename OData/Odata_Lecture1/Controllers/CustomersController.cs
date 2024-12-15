@@ -7,21 +7,17 @@ using Odata_Lecture1.Models;
 namespace Odata_Lecture1.Controllers
 {
 
-    public class CategoriesController : ODataController
+    public class CustomersController : ODataController
     {
-        //protected readonly NorthwindContext db;
-
-        public CategoriesController()
-        {
-            //this.db = db;
-        }
+        
+      
 
         [EnableQuery]
         public IActionResult Get()
         {
-            return Ok(new Category { Id = 1, Name = "c1dsfsaf", Description="cat des" });
+            return Ok(new Customer { Id = 1, Name = "customer 1"});
         }
 
-       
+
     }
 }

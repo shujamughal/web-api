@@ -266,26 +266,26 @@
     "EndpointName": "customers/$metadata"
   },
   {
-    "ContainingType": "Odata_Lecture1.Controllers.CustomerController",
+    "ContainingType": "Odata_Lecture1.Controllers.CustomersController",
     "Method": "Get",
-    "RelativePath": "customers/Customer",
+    "RelativePath": "customers/Customers",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [],
-    "EndpointName": "customers/Customer"
+    "EndpointName": "customers/Customers"
   },
   {
-    "ContainingType": "Odata_Lecture1.Controllers.CustomerController",
+    "ContainingType": "Odata_Lecture1.Controllers.CustomersController",
     "Method": "Get",
-    "RelativePath": "customers/Customer/$count",
+    "RelativePath": "customers/Customers/$count",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [],
-    "EndpointName": "customers/Customer/$count"
+    "EndpointName": "customers/Customers/$count"
   },
   {
     "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
@@ -410,26 +410,26 @@
     "EndpointName": "products/$metadata"
   },
   {
-    "ContainingType": "Odata_Lecture1.Controllers.ProductController",
+    "ContainingType": "Odata_Lecture1.Controllers.ProductsController",
     "Method": "Get",
-    "RelativePath": "products/Product",
+    "RelativePath": "products/Products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [],
-    "EndpointName": "products/Product"
+    "EndpointName": "products/Products"
   },
   {
-    "ContainingType": "Odata_Lecture1.Controllers.ProductController",
+    "ContainingType": "Odata_Lecture1.Controllers.ProductsController",
     "Method": "Get",
-    "RelativePath": "products/Product/$count",
+    "RelativePath": "products/Products/$count",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [],
-    "EndpointName": "products/Product/$count"
+    "EndpointName": "products/Products/$count"
   },
   {
     "ContainingType": "Odata_Lecture1.Controllers.WeatherForecastController",
