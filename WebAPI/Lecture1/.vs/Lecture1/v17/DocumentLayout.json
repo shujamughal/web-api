@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB595EE-D2C2-4FE5-8721-6EA960A2D03F}|Lecture1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture1\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAcwFEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T05:19:21.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture1\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:19:01.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T05:19:01.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture1\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -68,21 +67,19 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:18:54.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T05:18:54.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture1\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T05:18:03.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T05:18:03.559Z"
             }
           ]
         },
