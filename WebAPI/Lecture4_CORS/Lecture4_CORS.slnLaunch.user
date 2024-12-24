@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Lecture4_CORS.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\CorsTestApp\\CorsTestApp.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

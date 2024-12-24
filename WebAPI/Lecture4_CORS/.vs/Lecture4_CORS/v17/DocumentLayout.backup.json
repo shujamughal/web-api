@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture4_CORS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE386E-9E81-4E4F-AD07-1F900CAA5817}|Lecture4_CORS.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture4_cors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AE386E-9E81-4E4F-AD07-1F900CAA5817}|Lecture4_CORS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D92763E-D862-4704-A659-4A46CAA3B07E}|..\\CorsTestApp\\CorsTestApp.csproj|c:\\shuja\\code examples\\web-api\\webapi\\corstestapp\\views\\home\\testcors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D92763E-D862-4704-A659-4A46CAA3B07E}|..\\CorsTestApp\\CorsTestApp.csproj|c:\\shuja\\code examples\\web-api\\webapi\\corstestapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D92763E-D862-4704-A659-4A46CAA3B07E}|..\\CorsTestApp\\CorsTestApp.csproj|c:\\shuja\\code examples\\web-api\\webapi\\corstestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AE386E-9E81-4E4F-AD07-1F900CAA5817}|Lecture4_CORS.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture4_cors\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AE386E-9E81-4E4F-AD07-1F900CAA5817}|Lecture4_CORS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\CorsTestApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\CorsTestApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:55:02.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\CorsTestApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\CorsTestApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:54:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestCors.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Views\\Home\\TestCors.cshtml",
+              "RelativeDocumentMoniker": "..\\CorsTestApp\\Views\\Home\\TestCors.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\CorsTestApp\\Views\\Home\\TestCors.cshtml",
+              "RelativeToolTip": "..\\CorsTestApp\\Views\\Home\\TestCors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:53:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture4_CORS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture4_CORS\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:13:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture4_CORS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture4_CORS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:10:02.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

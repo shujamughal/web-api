@@ -1,0 +1,6 @@
+@Lecture4_CORS_HostAddress = http://localhost:5153
+
+GET {{Lecture4_CORS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
