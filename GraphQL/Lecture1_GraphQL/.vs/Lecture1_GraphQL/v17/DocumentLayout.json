@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|c:\\shuja\\code examples\\web-api\\graphql\\lecture1_graphql\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248AAB71-6BC4-4ADD-8668-A99D21FC896F}|Lecture1_GraphQL.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T09:45:30.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:27:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "Query.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Query.cs",
+              "RelativeToolTip": "Query.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvyUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:26:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:24:58.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:24:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:23:59.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
