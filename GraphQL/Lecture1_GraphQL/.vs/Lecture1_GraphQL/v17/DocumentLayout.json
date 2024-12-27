@@ -50,8 +50,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-25T09:45:30.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:45:30.735Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:27:03.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:27:03.46Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "Query.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\GraphQL\\Lecture1_GraphQL\\Query.cs",
               "RelativeToolTip": "Query.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADgvyUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvyYAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T09:26:44.349Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:24:58.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:24:58.758Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Models\\Author.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA0wAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:24:23.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:24:23.066Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T09:23:59.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T09:23:59.047Z"
             }
           ]
         },

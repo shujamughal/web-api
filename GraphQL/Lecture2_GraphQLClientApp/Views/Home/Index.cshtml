@@ -1,0 +1,31 @@
+﻿@model List<Post>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posts</title>
+</head>
+<body>
+    <h1>Posts</h1>
+
+    <ul>
+        @foreach (var post in Model)
+        {
+            <li>
+                <h2>@post.Title</h2>
+                <p>@post.Content</p>
+                <p><strong>Author:</strong> @post.Author.Name</p>
+                <h3>Comments</h3>
+                <ul>
+                    @foreach (var comment in post.Comments)
+                    {
+                        <li>@comment.Text</li>
+                    }
+                </ul>
+            </li>
+        }
+    </ul>
+</body>
+</html>
