@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Lecture3_webpi_jwt_authentication.props" />
-</Project>
