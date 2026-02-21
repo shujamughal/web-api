@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|c:\\shuja\\code examples\\web-api\\webapi\\lecture3_authorization\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104B8B7B-A728-4A53-A8D3-49890D351A51}|Lecture3_Authorization.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RestrictedController.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Controllers\\RestrictedController.cs",
               "RelativeDocumentMoniker": "Controllers\\RestrictedController.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Controllers\\RestrictedController.cs",
               "RelativeToolTip": "Controllers\\RestrictedController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T11:43:15.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Models\\LoginModel.cs",
               "RelativeToolTip": "Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T11:24:45.164Z",
               "EditorCaption": ""
@@ -70,14 +70,14 @@
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowBYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T11:23:23.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -85,12 +85,11 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:20:22.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:20:22.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Shuja\\Code Examples\\web-api\\WebAPI\\Lecture3_Authorization\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwCUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:18:50.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:18:50.664Z"
             }
           ]
         },

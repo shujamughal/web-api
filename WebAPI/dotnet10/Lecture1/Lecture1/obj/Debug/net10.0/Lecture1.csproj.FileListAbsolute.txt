@@ -33,3 +33,6 @@ C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\obj\Debug\net10
 C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\obj\Debug\net10.0\Lecture1.pdb
 C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\obj\Debug\net10.0\Lecture1.genruntimeconfig.cache
 C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\obj\Debug\net10.0\ref\Lecture1.dll
+C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Shuja\Code Examples\web-api\WebAPI\dotnet10\Lecture1\Lecture1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
